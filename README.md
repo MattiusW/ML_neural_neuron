@@ -1,2 +1,4 @@
 # ML_neural_neuron
-Build neural neuron without use TensorFlow, PyTorch
+Manuale tworzenie sieci neuronowych bez używania bibliotek od zera.
+
+Pierwszy projekt "neutral_network_from_scratch", utworzyłem podążając za 2 godzinnym tutorialem z YT.
